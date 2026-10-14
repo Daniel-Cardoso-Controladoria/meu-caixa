@@ -1,0 +1,4 @@
+# dados pessoais do banco do artefato — nunca versionar
+data/
+.DS_Store
+node_modules/
